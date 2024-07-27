@@ -1,7 +1,7 @@
-# CRIANDO-UMA-TABELA-DE-LIVRARIA
+# CRIANDO-UM-BANCO-DE-UMA-LIVRARIA
 - Aqui eu criei a database e a tabela de uma livraria, inserindo as definições em Livro, Autor, Sexo do Autor, Paginas, Editora, Valor, UF e o Ano de publicação:
 
-/* CRIANDO A TABELA DA LIVRARIA */
+/* CRIANDO UM BANCO DE UMA LIVRARIA */
 
 Create DataBase Livraria;
 
